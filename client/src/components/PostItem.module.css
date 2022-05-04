@@ -1,0 +1,64 @@
+.item {
+    list-style: none;
+    border-bottom: 1px solid black;
+    text-align: left;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.container {
+    display: flex;
+}
+
+.content {
+    width: 80%;
+}
+
+.leftContent {
+    width: 20%;
+}
+
+.button {
+    width: 80%;
+    height: 3rem;
+    border-radius: 2rem;
+    color: white;
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size: large;
+    background-color: black;
+}
+.likeButton {
+    width: 10%;
+    height: 3rem;
+    border-radius: 2rem;
+    color: white;
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size: large;
+    background-color: black;
+}
+
+.form {
+    margin-top: 1rem;
+    background-color: black;
+    padding: 1rem;
+    align-items: center;
+    text-align: left;
+}
+
+.input {
+    width: 100%;
+    
+}
+
+.form label {
+    margin-top: 1rem;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.textfield {
+    height: 10rem;
+}

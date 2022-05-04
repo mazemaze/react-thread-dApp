@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    background-color: black;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+}
+
+.container h1{
+    color: white;
+    padding-right: 2rem;
+}
+
+.container p{
+    color: white;
+    font-weight: bold;
+}
